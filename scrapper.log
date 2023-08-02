@@ -1,0 +1,119 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.21:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:00:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:00:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:00:41] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:name 'os' is not defined
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:00:44] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.21:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:name 'BeautifulSoup' is not defined
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:18] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:20] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name 'BeautifulSoup' is not defined
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:23] "POST /review HTTP/1.1" 200 -
+INFO:root:name 'BeautifulSoup' is not defined
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:23] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.21:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:52] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:52] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:52] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:57] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.9:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.20.10.9 - - [22/Feb/2023 11:24:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.20.10.9 - - [22/Feb/2023 11:24:04] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.20.10.9 - - [22/Feb/2023 11:24:04] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.20.10.9 - - [22/Feb/2023 11:24:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.20.10.9 - - [22/Feb/2023 11:24:16] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://81.0.3.54:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://81.0.3.54:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+ERROR:werkzeug:127.0.0.1 - - [31/Jul/2023 13:56:50] code 400, message Bad request version ('4\x18\x16qÐ\x9fFK¡\x96')
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 13:56:50] "[35m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x10Ô.×çD\x9d[¤ÑØ\x03\x1f\x1d\x06â¥w(çÏ\x95\x11ò\x03_¶F\x0bÄÎ/ P]\x93\x1f1ä \x92#ÏP(û\x00|S\x17Æ\x00ä3\x97Özîñ_\x7f,\x7fö8\x00 ÚÚ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93**\x00\x00\x00#\x00\x00\x00+\x00\x07\x06úú\x03\x04\x03\x03\x00\x0d\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01ÿ\x01\x00\x01\x00\x00\x1b\x00\x03\x02\x00\x02\x00-\x00\x02\x01\x01\x003\x00+\x00)ZZ\x00\x01\x00\x00\x1d\x00 4\x18\x16qÐ\x9fFK¡\x96[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:127.0.0.1 - - [31/Jul/2023 13:56:50] code 400, message Bad request version ('zz\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93')
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 13:56:50] "[35m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03ôùì\x9eS\x0báZ9|£#\x8ahÏ\x89Â\x97tÜãn¢±ð£\x14F&`/§ 3\x9eòï\x01%JÓl§n!\x0c\x92\x9c$\x9a\x1a\x15-×;BÀ\x81ñ}6Äë¼\x98\x00 zz\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:127.0.0.1 - - [31/Jul/2023 13:56:50] code 400, message Bad HTTP/0.9 request type ("\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03E¾w÷'RÛ\x96ÂÝ\x93\x9bbÔý|©ÿÓV\x8eà¥[")
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 13:56:50] "[35m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03E¾w÷'RÛ\x96ÂÝ\x93\x9bbÔý|©ÿÓV\x8eà¥[\x1d\x07\x88_ð[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:127.0.0.1 - - [31/Jul/2023 13:56:51] code 400, message Bad request version ('ú¯S\x99')
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 13:56:51] "[35m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03ÔÚ·Üí¬\x05J\x82¶2\x16aÞµRß\x80\x0c\x84ÂHÝ\x9e\x81¬w\x8aæÌÉ¸ )Z\x9aÓ4\x00\x1a\x9f\x89kØ)W÷\x82õµ^Òò\x1dú¯S\x99[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:127.0.0.1 - - [31/Jul/2023 13:56:51] code 400, message Bad request version ('JJ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93\x1a\x1a\x00\x00ÿ\x01\x00\x01\x00\x00\x12\x00\x00\x00')
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 13:56:51] "[35m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03'êâ9\x85\x8c\x10Ø\x19\x937(Ì\x03C\\°g\x95NýÃþ\x0eáH-èvÅl\x1f \x95DÇ[éw}ç\x0e³ÎóÌ_óì1H\x99\x86^ðnUc-Þ-I7ûV\x00 JJ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93\x1a\x1a\x00\x00ÿ\x01\x00\x01\x00\x00\x12\x00\x00\x00[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:127.0.0.1 - - [31/Jul/2023 13:56:51] code 400, message Bad request version ('**\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93ªª\x00\x00\x00')
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2023 13:56:51] "[35m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x09*l¹5\x90Ë\x1d\x80y\x14ù¨o&Ðk´âdñå\x88§$a\x0f\x80\x08ò0á ]\x8dG\x96\x1d¼I÷Fí\x14¼\x8d<-Ðí=\x95Ñ\x9dÓÖp\x88ÃF\\¸SÉÎ\x00 **\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93ªª\x00\x00\x00[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:81.0.3.54 - - [31/Jul/2023 13:57:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:81.0.3.54 - - [31/Jul/2023 13:57:46] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:81.0.3.54 - - [31/Jul/2023 13:57:46] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:81.0.3.54 - - [31/Jul/2023 13:57:46] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:81.0.3.54 - - [31/Jul/2023 13:58:05] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://81.0.3.54:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:81.0.3.54 - - [31/Jul/2023 14:00:54] "POST /review HTTP/1.1" 200 -
+INFO:root:bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:81.0.3.54 - - [31/Jul/2023 14:01:09] "POST /review HTTP/1.1" 200 -
+INFO:root:bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:81.0.3.54 - - [31/Jul/2023 14:01:27] "POST /review HTTP/1.1" 200 -
+INFO:root:bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:81.0.3.54 - - [31/Jul/2023 14:03:04] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://81.0.3.54:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:81.0.3.54 - - [31/Jul/2023 14:24:07] "POST /review HTTP/1.1" 200 -
+INFO:root:bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:81.0.3.54 - - [31/Jul/2023 14:24:15] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:81.0.3.54 - - [31/Jul/2023 14:26:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:81.0.3.54 - - [31/Jul/2023 14:26:34] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:81.0.3.54 - - [31/Jul/2023 14:26:34] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://81.0.3.54:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:81.0.3.54 - - [31/Jul/2023 14:28:33] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://81.0.3.54:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:'int' object is not callable
+INFO:werkzeug:81.0.3.54 - - [31/Jul/2023 14:29:33] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://81.0.3.54:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:81.0.3.54 - - [31/Jul/2023 14:30:09] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:81.0.3.54 - - [31/Jul/2023 16:07:29] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:81.0.3.54 - - [31/Jul/2023 16:07:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:81.0.3.54 - - [31/Jul/2023 16:30:52] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:81.0.3.54 - - [31/Jul/2023 16:30:52] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://81.0.3.54:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:81.0.3.54 - - [02/Aug/2023 09:31:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:81.0.3.54 - - [02/Aug/2023 09:31:14] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:81.0.3.54 - - [02/Aug/2023 09:31:14] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:81.0.3.54 - - [02/Aug/2023 09:31:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
